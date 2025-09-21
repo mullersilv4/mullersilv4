@@ -8,11 +8,11 @@ Olá, Sou Muller Silva, profissional na área de infraestrutura de TI em datacen
 Com uma trajetória dedicada à tecnologia, busco sempre me atualizar e expandir meus conhecimentos. Acredito que a computação em nuvem tem muito a agregar na minha área de atuação e estou animado para explorar todas as suas possibilidades.
 
 Estou aqui para trocar experiências, dicas e ideias sobre tecnologia! Vamos juntos nessa jornada?! 🚀💻 
-
+---
 ## Escolaridade
 
 - Cursando 5°ano de Engenharia da Computação (Univesp)
-
+---
 ## Técnologias
 <div align="" background="white">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"/>
@@ -22,7 +22,7 @@ Estou aqui para trocar experiências, dicas e ideias sobre tecnologia! Vamos jun
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" height="50"/>
           
 </div> 
-
+---
           
 ## 🔗 Conecte-se comigo
 
