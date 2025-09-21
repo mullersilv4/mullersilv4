@@ -25,7 +25,8 @@ Estou aqui para trocar experiências, dicas e ideias sobre tecnologia! Vamos jun
 ## 🔗 Conecte-se comigo
 
 <div align="">
-[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muller-silva-a531b268/) 
+          
+[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mullersilva14/) 
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/muller_silv4) 
 
