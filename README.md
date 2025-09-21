@@ -15,7 +15,7 @@ Estou aqui para trocar experiências, dicas e ideias sobre tecnologia! Vamos jun
 
 ## Técnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"  />
           
 
 ## 🔗 Conecte-se comigo
